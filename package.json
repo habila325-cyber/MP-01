@@ -1,0 +1,16 @@
+{
+  "name": "MP~01-whatsapp-bot",
+  "version": "1.0.0",
+  "description": "MP~01 BOT WhatsApp bot powered by Evolution API",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "dependencies": {
+    "axios": "^1.8.4",
+    "express": "^4.21.2"
+  }
+}
