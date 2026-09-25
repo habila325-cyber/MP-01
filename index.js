@@ -8,7 +8,7 @@ const app = express();
 app.use(express.json({ limit: "10mb" }));
 
 // ==================================================
-// KNOX BOT CONFIG
+// MP~01 BOT CONFIG
 // ==================================================
 
 const PORT = process.env.PORT || 8080;
@@ -30,8 +30,8 @@ const EVOLUTION_INSTANCE =
 const BOT_NUMBER =
   process.env.BOT_NUMBER || "";
 
-const MP~01_LOGO_URL =
-  process.env.KNOX_LOGO_URL || "";
+const _LOGO_URL =
+  process.env.MP~01_LOGO_URL || "";
 
 const START_TIME = Date.now();
 
