@@ -31,7 +31,7 @@ const BOT_NUMBER =
   process.env.BOT_NUMBER || "";
 
 const _LOGO_URL =
-  process.env.MP~01_LOGO_URL || "";
+  process.env._LOGO_URL || "";
 
 const START_TIME = Date.now();
 
