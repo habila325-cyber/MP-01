@@ -142,7 +142,7 @@ async function sendImage(number, imageUrl, caption) {
 
 function buildMenu() {
   let text = `
-╭━━━〔 👑 KNOX BOT 〕━━━╮
+╭━━━〔 👑 MP~01 BOT 〕━━━╮
 ┃
 ┃ 🤖 Bot      : MP~01 BOT
 ┃ 👑 Owner    : ${OWNER_NAME}
